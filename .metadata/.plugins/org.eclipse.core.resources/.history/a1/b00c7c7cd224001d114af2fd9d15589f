@@ -1,0 +1,5 @@
+package oi.github.mizaeldouglas.workshopmongo.repository;
+
+public interface UserRepository {
+
+}

@@ -1,0 +1,5 @@
+package oi.github.mizaeldouglas.workshopmongo.resources;
+
+public class UserResouce {
+
+}

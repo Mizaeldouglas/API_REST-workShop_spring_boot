@@ -1,0 +1,19 @@
+package oi.github.mizaeldouglas.workshopmongo.resources;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import oi.github.mizaeldouglas.workshopmongo.domain.User;
+
+@RestController
+@RequestMapping(value="/users")
+public class UserResouce {
+
+	public List<User> findAll(){
+		User maria = new User("1", "Maria Brown", "maria@gmail.com");
+		
+	}
+	
+}
