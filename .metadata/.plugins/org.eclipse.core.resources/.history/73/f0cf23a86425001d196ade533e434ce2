@@ -1,0 +1,5 @@
+package oi.github.mizaeldouglas.workshopmongo.resources.exeption;
+
+public class ResourceExceptionHandler {
+
+}
