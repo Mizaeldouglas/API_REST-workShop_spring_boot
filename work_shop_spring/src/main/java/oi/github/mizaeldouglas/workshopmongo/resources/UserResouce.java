@@ -14,15 +14,13 @@ import oi.github.mizaeldouglas.workshopmongo.services.UserService;
 @RestController
 @RequestMapping(value="/users")
 public class UserResouce {
-	
+
 	@Autowired
 	private UserService service;
 	
-
-	@RequestMapping(method = RequestMethod.GET)
-	public ResponseEntity<List<User>>  findAll(){
+	@RequestMapping(method=RequestMethod.GET)
+ 	public ResponseEntity<List<User>> findAll() {
 		List<User> list = service.findAll();
-		
 		return ResponseEntity.ok().body(list);
 		
 		
