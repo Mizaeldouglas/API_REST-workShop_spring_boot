@@ -200,3 +200,5 @@
 2022-08-26 13:47:31,601 [Worker-1: Launching work_shop_spring - WorkShopSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-26 13:47:31,601 [Worker-1: Launching work_shop_spring - WorkShopSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-08-26 13:47:31,601 [Worker-1: Launching work_shop_spring - WorkShopSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mizaeldouglas/projetos/api-rest-work_shop-spring_boot/work_shop_spring/src/test/resources
+2022-08-26 13:49:49,771 [Worker-6: Push to api-rest-work_shop-spring_boot refs/heads/main - origin] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2022-08-26 13:49:50,155 [Worker-6: Push to api-rest-work_shop-spring_boot refs/heads/main - origin] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
