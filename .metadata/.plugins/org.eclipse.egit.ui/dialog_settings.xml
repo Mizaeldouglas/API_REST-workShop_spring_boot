@@ -8,8 +8,8 @@
 	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
-		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="441,555"/>
-		<item key="STAGING_SASH_FORM_WEIGHT" value="901,85"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="442,557"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="913,86"/>
 		<item key="sortItemState" value="false"/>
 	</section>
 	<section name="GitCommitMessageComponent">
