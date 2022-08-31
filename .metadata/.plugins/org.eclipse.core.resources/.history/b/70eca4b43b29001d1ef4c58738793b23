@@ -1,0 +1,5 @@
+package oi.github.mizaeldouglas.workshopmongo.domain;
+
+public class Post {
+
+}
