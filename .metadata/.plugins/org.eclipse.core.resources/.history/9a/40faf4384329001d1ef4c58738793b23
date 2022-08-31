@@ -1,0 +1,5 @@
+package oi.github.mizaeldouglas.workshopmongo.dto;
+
+public class CommentDTO {
+
+}
